@@ -1,0 +1,14 @@
+
+
+Login to the AWS Console as a IAM user (developer or admin profile for now)
+Region : US Virginia
+
+[https://nitin-learning-aws.signin.aws.amazon.com/console]
+
+Create a hello-world-rest-api application and configure the environment
+
+URL :
+
+[HelloworldRestApi-env.p7wjicpyvs.us-east-1.elasticbeanstalk.com]
+
+The deployed application is not available in the other regions other than virginia
